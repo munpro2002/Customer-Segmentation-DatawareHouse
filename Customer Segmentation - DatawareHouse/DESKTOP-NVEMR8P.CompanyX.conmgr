@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-NVEMR8P.CompanyX"
+  DTS:DTSID="{559E360A-454E-41E8-8080-B09D2F13F631}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-NVEMR8P;Initial Catalog=CompanyX;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Customer Segmentation - DatawareHouse-{559E360A-454E-41E8-8080-B09D2F13F631}DESKTOP-NVEMR8P.CompanyX;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
